@@ -1,8 +1,3 @@
-<%-- 
-    Document   : verPersonas
-    Created on : 10/12/2022, 13:22:29
-    Author     : agust
---%>
 
 <%@page import="java.util.List"%>
 <%@page import="logica.Persona"%>
